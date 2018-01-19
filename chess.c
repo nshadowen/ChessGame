@@ -1,3 +1,8 @@
+/*Written by: Nicole Shadowen
+* Spring 2016
+*/
+
+
 /* Example for a chessboard: pair (column , row) each from 0-7
  * col and row are records of struct position
  * struct move is a struct containing structs
