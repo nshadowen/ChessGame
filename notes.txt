@@ -1,0 +1,2 @@
+chess checkmate = stale mate 
+and check verifying  ifcheck function – takes a move – does it, hold piece that you took out of the way (potential) check check function  checkmate function stalemate at the beginning of the while() game loop – you need to know if you are in check, checkmate, or stalemate
