@@ -23,7 +23,7 @@ to check for move:
 •check that destination square does not have Player's piece
 •check that no pieces (other than knight) are in the squares leading up to spot you want to move to check piecesArray[t].position.row, piecesArray[t].position.col, 
  
-to remove one of the pieces from our array = pieceArray[t--] (from class on 3/24 used in array in heap so idk if will work normal talk)
+to remove one of the pieces from our array = pieceArray[t--] 
  
  
 REMAINING on 3/29/16
